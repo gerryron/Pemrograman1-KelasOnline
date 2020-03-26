@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="22d0e28b-2bb0-4511-bdfe-5ea17177f846" name="Default Changelist" comment="" />
+    <list default="true" id="22d0e28b-2bb0-4511-bdfe-5ea17177f846" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/out/production/UTS-UNPAM-Gerry/SOAL_UTS/nomer1/PenampilAngka.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/UTS-UNPAM-Gerry/SOAL_UTS/nomer2/AplikasiPenentuNilai.class" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -13,6 +16,9 @@
         <option value="Class" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1ZfArVmFo7BaBHmYcVJfgTs86r9" />
   <component name="ProjectViewState">
@@ -82,6 +88,7 @@
       <option name="presentableId" value="Default" />
       <updated>1585219973029</updated>
       <workItem from="1585219976716" duration="3358000" />
+      <workItem from="1585224689639" duration="15000" />
     </task>
     <servers />
   </component>
@@ -105,5 +112,9 @@
       <screen x="0" y="0" width="1366" height="738" />
     </state>
     <state width="637" height="182" key="GridCell.Tab.0.right/0.0.1366.738@0.0.1366.738" timestamp="1585223411713" />
+    <state x="721" y="194" key="com.intellij.ide.util.TipDialog" timestamp="1585224691583">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="721" y="194" key="com.intellij.ide.util.TipDialog/0.0.1366.738@0.0.1366.738" timestamp="1585224691583" />
   </component>
 </project>
